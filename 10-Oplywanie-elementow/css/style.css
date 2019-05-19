@@ -9,5 +9,5 @@ float:left;
 }
 p:last-child {
     background-color: lime;
-    clear: both;
+    clear:both;
 }
