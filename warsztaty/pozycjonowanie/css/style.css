@@ -1,0 +1,26 @@
+
+.outer {
+    width: 400px;
+    height: 400px;
+    background-color: #a6a9b6;
+    position: relative;
+    border: 5px solid #666368;
+}
+    .inner {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background-color: #e4e4e4;
+    }
+    
+    #square-1 {
+    right: 0;
+    background-color:#e4e4e4;
+    }
+    #square-2 {
+        left: 0;
+        bottom: 0:
+        background-color: #ff912e;
+        }
+    
+    
