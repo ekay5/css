@@ -1,0 +1,12 @@
+*{
+    color: lightgray;}
+    p {color: pink;}
+    #kasia {color: black;}
+    li > a {color: red;}
+   
+    li#pierwszy ~li {
+        background-color: aqua;
+    }
+    li#pierwszy + li {
+        background-color:brown;
+    }
